@@ -3,7 +3,7 @@ Sample API client for Avaya Scopia Management
 ============================================================
 ### About:
 
-Android base sample application for Scopia Management server. This application will demonstrate the http/xml communication between Scopia Management. One button will fetch list of registered users and the other will list of gatekeepers. Please go through the API document provided by Avaya to understand how XMLs will be constructed.
+Android base sample application for Scopia Management server. This application will demonstrate the http/xml communication between Scopia Management. One button will fetch list of registered users and the other will list gatekeepers. Please go through the API document provided by Avaya to understand how XMLs will be constructed.
 <br>
 <div style="text-align:center">
 <img border="0" src="https://raw.githubusercontent.com/glide112/managementAPi/master/image/sample_screenshot.png" height="384">
